@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Enum_DownCasting/1.0.0": {
+        "dependencies": {
+          "Enum_DownCasting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Enum_DownCasting.dll": {}
+        }
+      },
+      "Enum_DownCasting.Domain/1.0.0": {
+        "runtime": {
+          "Enum_DownCasting.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enum_DownCasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enum_DownCasting.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

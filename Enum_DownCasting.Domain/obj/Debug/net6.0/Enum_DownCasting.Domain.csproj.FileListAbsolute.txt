@@ -1,0 +1,11 @@
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\bin\Debug\net6.0\Enum_DownCasting.Domain.deps.json
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\bin\Debug\net6.0\Enum_DownCasting.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\bin\Debug\net6.0\Enum_DownCasting.Domain.pdb
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.AssemblyInfoInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.AssemblyInfo.cs
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\refint\Enum_DownCasting.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\Enum_DownCasting.Domain.pdb
+C:\Users\TeymurDevv\Desktop\C#\Enum_DownCasting\Enum_DownCasting.Domain\obj\Debug\net6.0\ref\Enum_DownCasting.Domain.dll
